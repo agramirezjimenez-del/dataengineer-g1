@@ -1,0 +1,2 @@
+# ejecuta el script main.py
+uv run main.py
